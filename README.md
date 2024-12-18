@@ -1,0 +1,2 @@
+# stockbarang
+web
